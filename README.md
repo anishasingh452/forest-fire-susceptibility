@@ -6,12 +6,17 @@ This repository contains a regression modeling pipeline for predicting forest fi
 
 ## Project Structure
 FOREST-FIRE-SUSCEPTIBILITY/
+│
 ├── data/
 │ └── raw/ # Original dataset (forestfires.csv)
+│
 ├── figures/ # Visualizations and plots
+│
 ├── notebooks/ # Jupyter or Colab notebooks
+│
 ├── src/
 │ └── data_preprocessing.py # Feature engineering and preprocessing scripts
+│
 ├── requirements.txt # Dependency list
 └── README.md # Project overview and documentation
 
